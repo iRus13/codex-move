@@ -1,0 +1,6 @@
+interface:
+  display_name: "Move"
+  short_description: "Continue this chat on your other Mac"
+  default_prompt: "Use $move to transfer this chat and its files to my other Mac."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,12 @@
+{
+  "SKILL.md": "8a7ba22758b56d116d31f8e19b43b806775e83a07491edfd4aab7488c2bfe544",
+  "agents/openai.yaml": "a8fbf7233ef252daf7426ad3874f53e5ce22ecf94cf4fd9f4c77a7bba4f4a019",
+  "scripts/engine.py": "bfb3737f2753c1b83d691658f44be7060e655dfdef546bc9e59b9ccb6a65fa37",
+  "scripts/move.py": "798b147cdfd1d31fbc1a97a5687d5ef36fa64f046f2f14e20b6dd2a92696e6b9",
+  "scripts/native_service.py": "f42bda15e9d4b63616ba5fb847cf5765e33b7fce8a5491fd711f481ff6046d1e",
+  "scripts/pair.py": "45aa9f8b65a5a435c29690aede84350bf85b52a3968bfcf8a9be5c9ce5f37690",
+  "scripts/receiver-universal.b64": "62e3114dae7329e2704dd0f8477f70467896b99b26ab6c9f26680374cdb60386",
+  "scripts/receiver.swift": "94293d6c6bcf64ef3a7b9e1dc53b5a120d52bbb6b7cb1f3b333fde161e946169",
+  "scripts/rpc.py": "05493f6e2249d10fe3888b51aed825b33041470f8e5fc7133567f1064593b25a",
+  "scripts/signing.py": "954c126d552799696990d8cdb17fb574d4620a27b26a6c86691b0a9c1e070c9a"
+}
